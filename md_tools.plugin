@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=md_tools
+IAge=3
+Name=Markdown Tools (Flatpak)
+Description=Formats and Lints Markdown using host tools
+Authors=Alex Zewebrand
+Copyright=Copyright © 2025
